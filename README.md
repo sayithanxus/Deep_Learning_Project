@@ -69,11 +69,6 @@ Jupyter Notebook veya başka bir Python geliştirme ortamında proje dosyaların
 Her bir modelin performansını değerlendirmek için ilgili test fonksiyonlarını çalıştırın.
 
 ---
-## Kullanım
-
-Projenin nasıl kullanılacağına dair bilgileri ekleyin. Örneğin, projenizi bir kişi bilgisayarına indirdiğinde sorunsuz bir şekilde çalıştırması için yapması gereken adımları listeleyin.
-
----
 ## Sonuç
 
 Böbrek kanseri tespiti konusunda hangi modelin daha etkili olduğunu anlamak için kullanılabilir. Ayrıca, bu çalışma, görüntü analizi ve derin öğrenme alanında ilerleyen projeler için bir temel oluşturabilir.
