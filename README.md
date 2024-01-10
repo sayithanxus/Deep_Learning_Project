@@ -36,7 +36,7 @@ Google Colab ortamı
 ---
 ## Proje Dosya Yapısı
 
-- **/Derin_Ogrenme_Proje_Odevi**
+- **/Deep_Learing_Project**
   - **/ANN**
     - `ARTIFICAL_NEURAL_NETWORK_65_35.ipynb`
     - `ARTIFICAL_NEURAL_NETWORK_80_20.ipynb`
